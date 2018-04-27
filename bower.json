@@ -1,8 +1,8 @@
 {
-  "name": "videogular-overlay-play",
+  "name": "videogular-odilo-overlay-play",
   "version": "1.4.4",
   "main": "./vg-overlay-play.js",
   "dependencies": {
-    "videogular": "~1.4.4"
+    "videogular-odilo": "~1.4.4"
   }
 }
